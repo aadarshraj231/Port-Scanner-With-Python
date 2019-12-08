@@ -1,7 +1,7 @@
 # port-scanner-with-python
 Hello Welcome To Google Code In
 
-This Is Create A Port Scanner Your Own Like Nmap Task.
+This Task For Create A Port Scanner Program Your Own Like Nmap Task.
 
 So This Is Port Scanner Like Nmap This File Can Scan Host You Give And Port..
 
