@@ -14,7 +14,7 @@ Like :-
   And Then Port
 * Enter the port : 443
 
-And Program Give Port Is Open Or Not
+And Then Program Give Port Is Open Or Not
 
 This Is My Task
 
