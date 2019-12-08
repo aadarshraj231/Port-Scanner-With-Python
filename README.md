@@ -10,7 +10,7 @@ And Then Poergram Ask You To Type Port So You Type Which Port You Want To Scan..
 
 Like :- 
 
-* Enter the host : "192.168.*.*"
+* Enter the host : "192.168.#.#"
   And Then Port
 * Enter the port : 443
 
